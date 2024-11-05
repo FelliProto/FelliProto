@@ -48,7 +48,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://felliproto.com
-          plugin_steam: yes
+          plugin_steam: no
           plugin_steam_achievements_limit: 2
           plugin_steam_games_ignored: 629520
           plugin_steam_games_limit: 1
@@ -56,6 +56,3 @@ jobs:
           plugin_steam_recent_games_limit: 3
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_user: 76561198424148961
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: felli_proto
